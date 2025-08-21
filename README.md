@@ -17,7 +17,7 @@ Incluye:
   - *Nicolas Oporto*
   - *Joseph Thenier*
   - *Carolina Bello*
-  - *Luis Martinez*
+  - *Luis Martínez*
   - *Oscar Loayza*
 - Carrera/Asignatura: **Data Mining – MIAV1E2**  
 - Docente: *MSc. Renzo Franck Claure Aracena*
