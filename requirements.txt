@@ -1,16 +1,15 @@
-IPython
-builtins
-datetime
-folium
-holidays
-io
-matplotlib
-numpy
-os
-pandas
-pyspark
-re
-requests
-seaborn
-sys
-zipfile
+# Requerimientos del proyecto Bluebikes
+# Python 3.10+ recomendado
+pyspark==3.5.1
+pandas>=2.2.2
+numpy>=1.26.4
+pyarrow>=16.1.0
+xgboost>=2.0.3
+scikit-learn>=1.4.2
+matplotlib>=3.8.4
+holidays>=0.46
+python-dateutil>=2.9.0
+ipykernel>=6.29.5
+jupyterlab>=4.2.3
+tqdm>=4.66.4
+python-docx>=1.1.2
