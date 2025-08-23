@@ -149,7 +149,7 @@ spark.sparkContext.setLogLevel("WARN")
 
 ## Resultados y entregables
 
-- **Informe técnico (DOCX)**: `reports/Informe_Bluebikes_CRISPDM.docx`  
+- **Informe técnico (PDF)**: `reports/Informe_Proyecto_Blue_Bikes.pdf`  
 - **Presentación (PDF)**: `reports/Presentacion_Blue_Bikes.pdf` *(opcional; agregar cuando esté lista)*  
 - **Artefactos de datos**:
   - `data/curated/` – tabla limpia y minable (parquet)  
@@ -161,7 +161,7 @@ spark.sparkContext.setLogLevel("WARN")
 ## Diccionario de datos
 
 - **Markdown**: `docs/DATA_DICTIONARY.md`  
-- **CSV (machine‑readable)**: `docs/data_dictionary.csv`
+
 
 Incluye tipos, dominios, reglas de calidad, derivaciones y ejemplos para **curated**, **features** y **aggregates**.
 
