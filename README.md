@@ -151,11 +151,6 @@ para el correcto funcionamiento del notebook 02 y 03.
 
 - **Informe técnico (PDF)**: `reports/Informe_Proyecto_Blue_Bikes.pdf`  
 - **Presentación (PDF)**: `reports/Presentacion_Blue_Bikes.pdf` *(opcional; agregar cuando esté lista)*  
-- **Artefactos de datos**:
-  - `data/curated/` – tabla limpia y minable (parquet)  
-  - `data/features/` – viajes con features derivadas  
-  - `data/aggregates/` – agregados estación × hora
-
 ---
 
 ## Diccionario de datos
