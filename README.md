@@ -45,7 +45,7 @@ miav1e2-blue-bikes/
 │  ├─ DATA_DICTIONARY.md
 │  
 ├─ reports/
-│  └─ Informe_Bluebikes_CRISPDM.docx
+│  └─ Informe_Proyecto_Blue_Bikes.pdf
 ├─ src/            # (opcional) utilidades/ETL/modelado
 ├─ requirements.txt
 ├─ README.md
