@@ -107,9 +107,11 @@ spark.sparkContext.setLogLevel("WARN")
 
 ## Datos
 
-- Coloca los archivos **fuente** en `data/raw/`. Por defecto, estos **no se versionan** (ver `.gitignore`).  
-- Si el volumen es grande, sube **muestras** representativas y deja scripts/notebooks de descarga.  
-- La tabla unificada y limpia se persiste en **parquet** en `data/curated/` para análisis eficiente.
+- La descarga total del dataset es automatica en el notebook 01.  
+- Para los datos usados como checkpoint se utiliza el enlace del repositorio pulico donde
+se encuentran los archivos en formato .parquet 
+- OJO: MUY IMPORTANTE CREAR UN ENLACE DIRECTO EN TU GOOGLE DRIVE EN "My Unit" o "Mi Unidad"
+para el correcto funcionamiento del notebook 02 y 03.
 
 > Nota: En los notebooks se integran **tres esquemas** históricos, se filtran viajes **<60s** y **>24h**, se validan coordenadas (excluyendo 0/0) y se aplica un filtro geográfico por BBOX+buffer del área operativa.
 
