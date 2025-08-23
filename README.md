@@ -33,7 +33,9 @@ miav1e2-blue-bikes/
 ├─ assets/
 │  └─ bluebikes_logo.png
 ├─ data/
-│  └─ enlace_data_frame_checkpoint.txt/  # importante crear link en "My unit" sobre este repo.
+│   
+├─ enlace_data_frame_checkpoint.txt/  # importante crear link en "My unit" sobre este repo.  
+└─ Estructura_BlueBikes_PRJ.png
 ├─ notebooks/
 │  ├─ 01_Proyecto_final_Blue_Bikes_Limpieza-EDA.ipynb
 │  └─ 02_Proyecto_final_Blue_Bikes_Ing_Caracteristicas.ipynb
